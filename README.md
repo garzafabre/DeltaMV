@@ -1,4 +1,4 @@
-# DeltaMV
+# DeltaMV (&Delta;MV)
 
 **&Delta;MV** is a new evolutionary multi-objective algorithm for multi-view data clustering.
 
@@ -8,13 +8,13 @@
 	Evolutionary Multi-objective Clustering Over Multiple Conflicting Data Views
 	Submitted to: IEEE Transactions on Evolutionary Computation.
 	
-The **source code** of &Delta;MV, as well as our collection of test **data sets**, is made available through this repository.
-
-**TO BE RELEASED AFTER ACCEPTANCE OF THE PAPER**
+The **source code** of &Delta;MV, as well as our collection of test **data sets**, is made available through this repository **(TO BE RELEASED AFTER ACCEPTANCE OF THE PAPER)**.
 
 ---
 
 **Contact:**
 
-	Mario Garza-Fabre - garzafabre@gmail.com, mario.garza@cinvestav.mx
+	Mario Garza-Fabre
+	garzafabre@gmail.com, mario.garza@cinvestav.mx
+	https://www.tamps.cinvestav.mx/~mgarza/DMV/
 
